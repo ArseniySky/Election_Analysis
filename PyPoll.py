@@ -1,7 +1,7 @@
 # Election_Analysis
 #file_variable = open(election_results, 'r')
 import os
-import csv
+import csv 
 print('current working directory' , os.getpwd())
 file_to_load = os.path.join("analysis", "election_analysis.txt")
 file_to_save = os.path.join("analysis", "election_analysis.txt")
