@@ -1,14 +1,16 @@
 ## Overview of the Project
-The Colorado Board of Elections has asked for an election audit of a local congressional election. The following tasks were completed in the audit.
+The Colorado Board of Elections has asked for an election audit of a local congressional election. 
+The following tasks were completed in the audit.
 
-Calculate the total number of votes cast.
-Compile a complete list of candidates who received votes.
-Calculate the total number of votes each candidate received.
-Calculate the percentage of votes each candidate won.
-Determine the winner of the election based on popular vote.
+- Calculate the total number of votes cast.
+- Compile a complete list of candidates who received votes.
+- Calculate the total number of votes each candidate received.
+- Calculate the percentage of votes each candidate won.
+- Determine the winner of the election based on popular vote.
+
 ## Resources
-Data Source: election_results.csv
-Software: Python 3.6.1, Visual Studio Code, 1.39.1
+- Data Source: election_results.csv
+- Software: Python 3.6.1, Visual Studio Code, 1.39.1
 ## Summary of Results
 The analysis of the election shows that:
 
